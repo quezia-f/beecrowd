@@ -25,5 +25,3 @@ var lines = input.split('\n');
 
 ## Verificação das Soluções
 Todas as soluções deste repositório foram submetidas e aceitas no Beecrowd URI Online Judge. 
-
-<center>Feito com 💜 por <span style="color:#9932cc"><strong>Quézia Filadelfo</strong</span></center>
